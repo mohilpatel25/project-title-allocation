@@ -1,5 +1,5 @@
 # Project Title Allocation
-This is a web portal for project title allocation developed using HTML, CSS and PHP alogn with database connectivity.
+This is a web portal for project title allocation developed using HTML, CSS and PHP along with database connectivity.
 
 The portal has three modules
 - Admin
